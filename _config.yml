@@ -1,0 +1,28 @@
+name: Ricky
+favicon: null
+layout_spectrum: 0.5915095207747072
+typography_spectrum: 0.6359152097720653
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.14897952182218432
+  lightness: 0.334592746803537
+  saturation: 0.8121602423489094
+  rhythmicContrast: 0.4928363552317023
+purpose: []
